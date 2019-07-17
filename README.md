@@ -1,6 +1,8 @@
 # python-resources
 
 Below links will help you learn python:
+http://github.com - automatic!
+[GitHub](http://github.com)
 
 1. Python Cheatsheet (https://github.com/jwasham/coding-interview-university/blob/master/extras/cheat%20sheets/python-cheat-sheet-v1.pdf)
 2. https://www.youtube.com/watch?v=N4mEzFDjqtA
