@@ -4,7 +4,7 @@ Below links will help you learn python:
 http://github.com - automatic!
 [GitHub](http://github.com)
 
-1. Python Cheatsheet (https://github.com/jwasham/coding-interview-university/blob/master/extras/cheat%20sheets/python-cheat-sheet-v1.pdf)
+[1. Python Cheatsheet](https://github.com/jwasham/coding-interview-university/blob/master/extras/cheat%20sheets/python-cheat-sheet-v1.pdf)
 2. https://www.youtube.com/watch?v=N4mEzFDjqtA
 3. https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_
 4. https://www.youtube.com/watch?v=Iq9DzN6mvYA
